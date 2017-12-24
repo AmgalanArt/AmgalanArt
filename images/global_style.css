@@ -1,0 +1,134 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-repeat: repeat-x;
+	background-color: #8b7770;
+
+}
+
+TD {
+	color: #1b1b1b;
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+TD A {
+	color: #a44e57;
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none; 
+}
+TD A:hover {
+	color: #a44e57;
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+}
+
+.description {
+	color: #eeeeee;
+	font-size: 13px;
+	font-family: times;
+}
+.Title{
+	color: #1b1b1b;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: times, serif;
+}
+.titleBurgundy {
+	color: #8f131e;
+	font-size: 20px;
+	font-family: Times;
+}
+.titleBurgundy A {
+	color: #8f131e;
+	font-size: 20px;
+	font-family: Times;
+	text-decoration: none; 
+}
+.titleBurgundy A:hover {
+	color: #8f131e;
+	font-size: 20px;
+	font-family: Times;
+	text-decoration: underline;
+}
+
+
+
+
+
+
+.TableTD {
+	color: #2e2e2e;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.TableTD A {
+	color: #896b2f;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none; 
+}
+.TableTD A:hover {
+	color: #b71900;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+}
+.textsmall {
+	color: #404040;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.textsmall A {
+	color: #404040;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none; 
+}
+.textsmall A:hover {
+	color: white;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+}
+.breadcrum {
+	color: #666666;
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.breadcrum A {
+	color: #666666;
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.breadcrum A:hover {
+	color: #b71900;
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.TextField {
+background-color: #2d2d2d;
+border-color: #999999;
+border-style: ridge;
+border-width: 1;
+font-size: 10px;
+font-family: arial, Helvetica, sans-serif;
+color: #5b5b5b;
+}
+.TextField2 {
+background-color: #2d2d2d;
+border-color: #999999;
+border-style: ridge;
+border-width: 1;
+font-size: 10px;
+font-family: arial, Helvetica, sans-serif;
+color: #5b5b5b;
+ text-align: center;
+}
+
+
+
+
